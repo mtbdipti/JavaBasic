@@ -5,7 +5,7 @@ These are files that will help you to understand clearly.
 2-reverse no.
 3-calculate the digit of a no.
 4-basic variable knowledge
-5-the basic understanding of for,while,dowhile,if,of else,break, continued and run.
+5-the basic understanding of for,while,dowhile,if,if else,break, continue and return.
 All this above understanding will help in doing basic Java programs that is being asked in interviews for beginner level.
 I will upload more repository and project.
 Ready to do fun with Java!
