@@ -8,6 +8,6 @@ These are files that will help you to understand clearly.
 5-the basic understanding of for,while,dowhile,if,if else,break, continue and return.
 All this above understanding will help in doing basic Java programs that is being asked in interviews for beginner level.
 I will upload more repository and project.
-Ready to do fun with Java!
+Be Ready to do fun with Java!
 Keep coding!!!!
 
